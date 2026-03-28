@@ -3,7 +3,7 @@ import { GlobalPayload } from '../types/global';
 const favicon = '/favicon.ico';
 const previewImage = '/preview.jpg';
 
-const title = '소통을 중시하는 개발자 김예준';
+const title = 'Resume: Yejun Kim';
 const description = '백엔드 및 프론트엔드 웹 개발자 김예준의 이력서입니다.';
 
 export const _global: GlobalPayload = {
