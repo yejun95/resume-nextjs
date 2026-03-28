@@ -8,7 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "cross-env DEBUG=yesume:* next",
     "build": "next build",
-    "postbuild": "node shellwork.js",
     "start": "next start",
     "clean": "npx rimraf docs .next",
     "lint": "eslint \"component/**/*\" \"pages/**/*\" \"payload/**/*\" \"types/**/*\"",
